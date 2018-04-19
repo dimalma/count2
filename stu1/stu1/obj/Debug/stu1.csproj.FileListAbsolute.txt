@@ -1,0 +1,6 @@
+C:\git\stu1\stu1\bin\Debug\stu1.exe.config
+C:\git\stu1\stu1\bin\Debug\stu1.exe
+C:\git\stu1\stu1\bin\Debug\stu1.pdb
+C:\git\stu1\stu1\obj\Debug\stu1.csprojResolveAssemblyReference.cache
+C:\git\stu1\stu1\obj\Debug\stu1.exe
+C:\git\stu1\stu1\obj\Debug\stu1.pdb
